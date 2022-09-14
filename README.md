@@ -2,9 +2,7 @@
 <h3 align="center">programmer , learner</h3>
 - 🌱 I’m currently learning **java, web development, Android development**
 
-- 💬 Ask me about **Technologies**
-
-- 📫 How to reach me **saikiranreddy01818@gmail.com**
+- 💬 Ask me about **Technologies*
 
 - ⚡ Fun fact **I am crazy**
 
