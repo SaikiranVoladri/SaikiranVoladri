@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikiran Voladri</h1>
-<h3 align="center">programmer , learner</h3>
-- 🌱 I’m currently learning **java, web development, Android development**
-
-- 💬 Ask me about **Technologies*
-
-- ⚡ Fun fact **I am crazy**
-
-
+<h3 align="center">programmer , learner</h3
 
 ![metrics](github-metrics.svg)
 
